@@ -21,13 +21,6 @@
 4. `python step1_ollama.py` → `step2` → `step3` → `step4`
 5. `streamlit run app.py`
 
-## 실행 결과
-![step1](실행결과/step1.png)
-![step2](실행결과/step2.png)
-![step3](실행결과/step3.png)
-![step4](실행결과/step4.png)
-![app](실행결과/app.png)
-
 ## 참고 및 협업
 - 1차 결과물: [tjwogus0309-code/hw](https://github.com/tjwogus0309-code/hw)
 - 위 결과물을 검토하고 피드백한 뒤 직접 수정한 버전입니다.
