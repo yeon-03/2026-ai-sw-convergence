@@ -1,0 +1,8 @@
+langchain-ollama
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+pypdf
+streamlit
+sentence-transformers
